@@ -1,0 +1,15 @@
+Medidor do Programa de Governo 2027-2030 (app instalável / PWA)
+Criador e responsável: Cristian de Souza Bote
+
+Arquivos: index.html, manifest.webmanifest, sw.js e os ícones. Mantenha todos na mesma pasta.
+
+Publicar (precisa de HTTPS; todas as opções abaixo têm plano gratuito):
+ 1. Netlify Drop (app.netlify.com/drop): arraste a pasta descompactada.
+ 2. Cloudflare Pages ou GitHub Pages: envie a pasta e ative o site.
+Depois, use o endereço oficial (de preferência um domínio próprio) em todos os seus perfis.
+
+Instalar no celular:
+ - iPhone (Safari): Compartilhar > Adicionar à Tela de Início.
+ - Android (Chrome): menu > Instalar app.
+
+Atualizar: substitua apenas o index.html pela versão nova. O app busca a versão nova quando houver internet e usa a cópia salva quando estiver offline.
